@@ -140,3 +140,12 @@ Para la vizualisacion de imagenes debemos cargar los archivos en nuestro reposit
               - Selección de proveedores para componentes clave del dron y sistemas de fumigación.
               - Diseño y prototipado del dron y sistemas de control.
               - Pruebas de laboratorio y simulaciones de vuelo para validar la capacidad de carga automatica.
+
+## Requisitos de Entorno
+1. **Espacio adecuado para el vuelo:** Un area abierta y libre de obstaculos para volar el dron de manera segura.
+2. **Condiciones limaticas aceptables:** Se debe evitar volar evolar el dron en condiciones adversas como vientos fuertes, lluvia o niebla.
+3. **Cumplimiento de normativas legales:** Conocer y cumplir con las leyes y regulaciones locales sobre el uso de drones.
+
+## Otros Requisitos Opcionales
+1. **Accesorios Adicionales:** Algunos usuarios pueden llegar a necesitar accesorios como protectores de helices, cargadores adicionales o soportes para el dispositivo.
+2. **Conocimiento de Primeros Auxilios Basicos:** En caso de accidentes menores o lesiones, tener conocimientos basicos de primeros auxilios puede ser util.
