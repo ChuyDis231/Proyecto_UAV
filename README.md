@@ -192,4 +192,13 @@ Para la vizualisacion de imagenes debemos cargar los archivos en nuestro reposit
 ## Cronograma y Recursos:
               °Duración del proyecto: 8 meses.
               °Recursos requeridos: Equipode desarollo (Ingenieros, Diseñadores), personal de operación (Pilotos, Técnicos), equipo y materiales de construcción.
+              
+##Requisitos de Entorno
+**1. Espacio Adecuado para el Vuelo:** Un área abierta y libre de obstáculos para volar el dron de manera segura.
+**2. Condiciones Climáticas Aceptables:** Evitar volar en condiciones adversas como vientos fuertes, lluvia, o niebla.
+**3. Cumplimiento de Normativas Locales:** Conocer y cumplir con las leyes y regulaciones locales sobre el uso de drones.
 
+##Otros Requisitos Opcionales
+**1. Accesorios Adicionales:** Algunos usuarios pueden necesitar accesorios como protectores de hélices, cargadores adicionales, o soportes para el dispositivo móvil.
+**2. Conocimiento de Primeros Auxilios Básicos:** En caso de accidentes menores o lesiones, tener conocimientos básicos de
+primeros auxilios puede ser útil.
