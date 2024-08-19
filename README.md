@@ -11,7 +11,24 @@ evolucionando.
 - **Empatía:** Mejoramiento laboral, apoyo entre compañeros de equipo.
 - **Seguridad:** Proporcionalmente de un protocolo de seguridad a los proyectos que se
 lleven a cabo dentro de la empresa.
+
   [organigrama](organigrama.jpg)
+
+  ##SERVICIO
+####Objetivo General
+Desarrollar un sistema de control autónomo de un dron agricultor que permita realizar actividades
+agrícolas, reduciendo al mínimo la intervención humana y maximizando la cobertura de cultivos al
+menor tiempo posible.
+####Objetivos Particulares
+- Implementar una página web para promocionar tanto servicio como producto.
+- Dar conocimiento sobre los diferentes tipos de drones que se ocupan dentro de la
+agricultura.
+- Implementar una aplicación que nos permita la manipulación del dron con intervención
+humana.
+- Mejorar la eficiencia y rendimiento de las actividades agrícolas con el uso de dron de
+fumigación.
+
+
 
 ## 1. Titulos HEADERS
 
