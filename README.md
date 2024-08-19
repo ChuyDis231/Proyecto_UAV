@@ -9,7 +9,8 @@ dentro de la empresa.
 - **Innovación:** Creamos y mejoramos avances tecnológicos conforme la tecnología vaya evolucionando.
 - **Empatía:** Mejoramiento laboral, apoyo entre compañeros de equipo.
 - **Seguridad:** Proporcionalmente de un protocolo de seguridad a los proyectos que se lleven a cabo dentro de la empresa.
-  #Organigrama
+  
+  # Organigrama
 
  <p align="center">
   <img src="organigrama.jpg" alt="Organigrama" width="650" height="470">
