@@ -13,7 +13,7 @@ evolucionando.
 lleven a cabo dentro de la empresa.
 
  <p align="center">
-  <img src="organigrama.jpg" alt="Organigrama" width="500" height="400">
+  <img src="organigrama.jpg" alt="Organigrama" width="600" height="400">
  </p>
 
   ## SERVICIO
