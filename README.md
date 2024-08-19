@@ -12,7 +12,9 @@ evolucionando.
 - **Seguridad:** Proporcionalmente de un protocolo de seguridad a los proyectos que se
 lleven a cabo dentro de la empresa.
 
- <img src="organigrama.jpg" alt="Organigrama" width="300" height="200">
+ <p align="center">
+  <img src="organigrama.jpg" alt="Organigrama" width="500" height="400">
+ </p>
 
   ## SERVICIO
 #### Objetivo General
