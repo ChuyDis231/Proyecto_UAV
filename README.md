@@ -10,7 +10,8 @@ dentro de la empresa.
 evolucionando.
 - **Empatía:** Mejoramiento laboral, apoyo entre compañeros de equipo.
 - **Seguridad:** Proporcionalmente de un protocolo de seguridad a los proyectos que se
-lleven a cabo dentro de la empresa. 
+lleven a cabo dentro de la empresa.
+  [organigrama](organigrama.jpg)
 
 ## 1. Titulos HEADERS
 
