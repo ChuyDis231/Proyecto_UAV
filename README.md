@@ -14,8 +14,8 @@ lleven a cabo dentro de la empresa.
 
   [organigrama](organigrama.jpg)
 
-  ##SERVICIO
-####Objetivo General
+  ## SERVICIO
+#### Objetivo General
 Desarrollar un sistema de control autónomo de un dron agricultor que permita realizar actividades
 agrícolas, reduciendo al mínimo la intervención humana y maximizando la cobertura de cultivos al
 menor tiempo posible.
