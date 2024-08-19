@@ -18,7 +18,7 @@ dentro de la empresa.
 
   ## SERVICIO
 #### Objetivo General
-Desarrollar un sistema de control autónomo de un dron agricultor que permita realizar actividades agrícolas, reduciendo al mínimo la intervención humana y maximizando la cobertura de cultivos al menor tiempo posible.
+<p align="justify"> Desarrollar un sistema de control autónomo de un dron agricultor que permita realizar actividades agrícolas, reduciendo al mínimo la intervención humana y maximizando la cobertura de cultivos al menor tiempo posible.</p> 
 
 #### Objetivos Particulares
 - Implementar una página web para promocionar tanto servicio como producto.
@@ -27,11 +27,11 @@ Desarrollar un sistema de control autónomo de un dron agricultor que permita re
 - Mejorar la eficiencia y rendimiento de las actividades agrícolas con el uso de dron de fumigación.
 
 ## Planteamiento del problema
-En la agricultura se presentan desafíos como la fertilización, el tiempo de carga y descarga, cobertura de área de cultivo y fumigación del campo, un dron nos ayudara a la optimización de tareas anteriormente mencionadas.
-Se desarrollarán estrategias y tecnologías que permitan optimizar el tiempo empleado en las operaciones con un dron agrícola, mejorando así la eficiencia y rendimiento de las actividades agrícolas, reducirá el tiempo de vuelo, maximizara la cobertura del área de cultivo en cada vuelo, y se minimizaran los tiempos de carga y descargas de equipos y datos.
+<p align="justify"> En la agricultura se presentan desafíos como la fertilización, el tiempo de carga y descarga, cobertura de área de cultivo y fumigación del campo, un dron nos ayudara a la optimización de tareas anteriormente mencionadas.</p>
+<p align="justify"> Desarrollar un sistema de control autónomo de un dron agricultor que permita realizar actividades agrícolas, reduciendo al mínimo la intervención humana y maximizando la cobertura de cultivos al menor tiempo posible.</p>
 
 ## Justificación
-Se basa en la optimización de tiempo con uso del UAV debido a sus implicaciones en eficiencia, seguridad y rentabilidad de las actividades agrícolas con esto el dron nos ayudara a la recopilación de datos para la toma de decisiones informada con la gestión de cultivos. Al optimizar el tiempo empleado en la recopilación de datos el agricultor puede tomar decisiones más rápido y precisas lo que puede generar un impacto positivo en la productividad y rendimiento de los cultivos.
+<p align="justify"> Se basa en la optimización de tiempo con uso del UAV debido a sus implicaciones en eficiencia, seguridad y rentabilidad de las actividades agrícolas con esto el dron nos ayudara a la recopilación de datos para la toma de decisiones informada con la gestión de cultivos. Al optimizar el tiempo empleado en la recopilación de datos el agricultor puede tomar decisiones más rápido y precisas lo que puede generar un impacto positivo en la productividad y rendimiento de los cultivos.</p>
 
 ## Alcance
 
@@ -211,6 +211,7 @@ Para la vizualisacion de imagenes debemos cargar los archivos en nuestro reposit
           o Sensores y Componentes: Sensores de GPS, giroscopios, y otras tecnologías de estabilización.
           o Batería: Debe tener una batería adecuada con suficiente duración para el tipo de vuelo deseado.
           o Cámara y otros Periféricos: Si el dron tiene cámara o otros accesorios, deben estar funcionando correctamente y ser compatibles con la aplicación.
+
 > - **Firmware del Dron:**
           o Actualizaciones de Firmware: El dron debe tener el firmware actualizado para garantizar la compatibilidad con la aplicación móvil y las últimas funcionalidades.
                
@@ -218,11 +219,35 @@ Para la vizualisacion de imagenes debemos cargar los archivos en nuestro reposit
 
 > - **Compatibilidad del Sistema Operativo:**
           o iOS o Android: La aplicación debe ser compatible con la versión del sistema operativo del dispositivo móvil.
+
 > - **Rendimiento del Dispositivo Móvil:**
           o Procesador y RAM: El dispositivo móvil debe tener un procesador y suficiente memoria RAM para ejecutar la aplicación sin problemas.
           o Espacio de Almacenamiento: Espacio suficiente para instalar la aplicación y almacenar datos relacionados con el vuelo.
+
 > - **Conectividad:**
          o Bluetooth/Wi-Fi: La aplicación debe ser compatible con la tecnología de conectividad utilizada por el dron (Bluetooth, Wi-Fi, etc.).
          o Redes: Para algunas funciones, como la transmisión en vivo o la descarga de mapas, el dispositivo puede necesitar una conexión a Internet estable.
+
 > - **Interfaz de Usuario:**
          o Compatibilidad con la Interfaz del Dron: La aplicación debe tener una interfaz que permita controlar el dron de manera intuitiva y eficiente.
+
+##     **Requisitos de Comunicación entre el Dron y la Aplicación**
+
+> - **Protocolo de Comunicación:**
+          o Protocolos Compatibles: La aplicación y el dron deben utilizar protocolos de comunicación que sean compatibles entre sí.
+
+> - **Sincronización:**
+          o Tiempo Real: La comunicación debe ser en tiempo real para asegurar que los comandos enviados desde la aplicación se reflejen inmediatamente en el dron y viceversa.
+
+##     **Requisitos Adicionales**
+
+> - **Seguridad y Privacidad:**
+          o Cifrado de Datos: Los datos transmitidos entre el dron y la aplicación deben estar cifrados para proteger la privacidad del usuario y la seguridad del vuelo.
+          o Autenticación: La aplicación debe incluir mecanismos de autenticación para evitar accesos no autorizados.
+
+> - **Compatibilidad con Periféricos:**
+          o Accesorios Adicionales: Si se usan accesorios adicionales (como controladores físicos), la aplicación y el dron deben ser compatibles con estos periféricos.
+
+> - **Soporte Técnico y Actualizaciones:**
+          o Actualizaciones de la Aplicación: La aplicación debe recibir actualizaciones periódicas para mantener la compatibilidad con nuevas versiones del sistema operativo y mejoras en el dron.
+          o Soporte Técnico: Acceso a soporte técnico para resolver problemas de compatibilidad y funcionamiento.
