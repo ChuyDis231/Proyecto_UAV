@@ -137,6 +137,6 @@ Para la vizualisacion de imagenes debemos cargar los archivos en nuestro reposit
 # Plan de Implementación:
 
 ##        1.Fase de Diseño y Desarrollo
-              ° Selección de proveedores para componentes clave del dron y sistemas de                         fumigación.
-              ° Diseño y prototipado del dron y sistemas de control.
-              ° Pruebas de laboratorio y simulaciones de vuelo para validar la capacidad de                    carga automatica.
+              - Selección de proveedores para componentes clave del dron y sistemas de fumigación.
+              - Diseño y prototipado del dron y sistemas de control.
+              - Pruebas de laboratorio y simulaciones de vuelo para validar la capacidad de carga automatica.
