@@ -134,18 +134,25 @@ Si la documentacion lo requiere podemos podemos presentar informacion en formato
 
 Para la vizualisacion de imagenes debemos cargar los archivos en nuestro repositorio y vincularlo
 [Pika-Pi](pikagit.png)
+
 # Plan de Implementación:
 
-##        1.Fase de Diseño y Desarrollo
+##        1.Fase de Diseño y Desarrollo:
               - Selección de proveedores para componentes clave del dron y sistemas de fumigación.
               - Diseño y prototipado del dron y sistemas de control.
               - Pruebas de laboratorio y simulaciones de vuelo para validar la capacidad de carga automatica.
 
-## Requisitos de Entorno
-1. **Espacio adecuado para el vuelo:** Un area abierta y libre de obstaculos para volar el dron de manera segura.
-2. **Condiciones limaticas aceptables:** Se debe evitar volar evolar el dron en condiciones adversas como vientos fuertes, lluvia o niebla.
-3. **Cumplimiento de normativas legales:** Conocer y cumplir con las leyes y regulaciones locales sobre el uso de drones.
+##        2.Fase de iplementación:
+              - Constrcción del dron y sistemas de soporte terrestre.
+              - Pruebas de vuelo en condiciones controladas y ajustes de sofware y hadware.
+              - Capacitación del personal operativo en el manejo del dron y sistemas de control.
+              
+##        3.Fase de Operación y Monitoreo:
+              -Implementación del dron en operaciones piloto en campos de maíz seleccionados.
+              -Monitoreo continuo de la eficacia del tratamiento y ajustes según sea necesario.
+              -Recolección de datos sobre la cobertura, consumo de pesticidas y eficiencia operativa del dron.
 
-## Otros Requisitos Opcionales
-1. **Accesorios Adicionales:** Algunos usuarios pueden llegar a necesitar accesorios como protectores de helices, cargadores adicionales o soportes para el dispositivo.
-2. **Conocimiento de Primeros Auxilios Basicos:** En caso de accidentes menores o lesiones, tener conocimientos basicos de primeros auxilios puede ser util.
+## Cronograma y Recursos:
+              °Duración del proyecto: 8 meses.
+              °Recursos requeridos: Equipode desarollo (Ingenieros, Diseñadores), personal de operación (Pilotos, Técnicos), equipo y materiales de construcción.
+
