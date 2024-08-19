@@ -21,6 +21,7 @@ lleven a cabo dentro de la empresa.
 Desarrollar un sistema de control autónomo de un dron agricultor que permita realizar actividades
 agrícolas, reduciendo al mínimo la intervención humana y maximizando la cobertura de cultivos al
 menor tiempo posible.
+
 ####Objetivos Particulares
 - Implementar una página web para promocionar tanto servicio como producto.
 - Dar conocimiento sobre los diferentes tipos de drones que se ocupan dentro de la
@@ -193,12 +194,35 @@ Para la vizualisacion de imagenes debemos cargar los archivos en nuestro reposit
               °Duración del proyecto: 8 meses.
               °Recursos requeridos: Equipode desarollo (Ingenieros, Diseñadores), personal de operación (Pilotos, Técnicos), equipo y materiales de construcción.
               
-##Requisitos de Entorno
-**1. Espacio Adecuado para el Vuelo:** Un área abierta y libre de obstáculos para volar el dron de manera segura.
-**2. Condiciones Climáticas Aceptables:** Evitar volar en condiciones adversas como vientos fuertes, lluvia, o niebla.
-**3. Cumplimiento de Normativas Locales:** Conocer y cumplir con las leyes y regulaciones locales sobre el uso de drones.
+#     **Requisitos de Entorno**
 
-##Otros Requisitos Opcionales
-**1. Accesorios Adicionales:** Algunos usuarios pueden necesitar accesorios como protectores de hélices, cargadores adicionales, o soportes para el dispositivo móvil.
-**2. Conocimiento de Primeros Auxilios Básicos:** En caso de accidentes menores o lesiones, tener conocimientos básicos de
-primeros auxilios puede ser útil.
+> - **Espacio Adecuado para el Vuelo:** Un área abierta y libre de obstáculos para volar el dron de manera segura.
+> - **Condiciones Climáticas Aceptables:** Evitar volar en condiciones adversas como vientos fuertes, lluvia, o niebla.
+> - **Cumplimiento de Normativas Locales:** Conocer y cumplir con las leyes y regulaciones locales sobre el uso de drones.
+
+##     **Otros Requisitos Opcionales**
+
+> - **Accesorios Adicionales:** Algunos usuarios pueden necesitar accesorios como protectores de hélices, cargadores adicionales, o soportes para el dispositivo móvil.
+> - **Conocimiento de Primeros Auxilios Básicos:** En caso de accidentes menores o lesiones, tener conocimientos básicos de primeros auxilios puede ser útil.
+
+##     **Requisitos del Sistema del Dron**
+
+> - **Hardware del Dron:**
+          o Sensores y Componentes: Sensores de GPS, giroscopios, y otras tecnologías de estabilización.
+          o Batería: Debe tener una batería adecuada con suficiente duración para el tipo de vuelo deseado.
+          o Cámara y otros Periféricos: Si el dron tiene cámara o otros accesorios, deben estar funcionando correctamente y ser compatibles con la aplicación.
+> - **Firmware del Dron:**
+          o Actualizaciones de Firmware: El dron debe tener el firmware actualizado para garantizar la compatibilidad con la aplicación móvil y las últimas funcionalidades.
+               
+##     **Requisitos de la Aplicación Móvil**
+
+> - **Compatibilidad del Sistema Operativo:**
+          o iOS o Android: La aplicación debe ser compatible con la versión del sistema operativo del dispositivo móvil.
+> - **Rendimiento del Dispositivo Móvil:**
+          o Procesador y RAM: El dispositivo móvil debe tener un procesador y suficiente memoria RAM para ejecutar la aplicación sin problemas.
+          o Espacio de Almacenamiento: Espacio suficiente para instalar la aplicación y almacenar datos relacionados con el vuelo.
+> - **Conectividad:**
+         o Bluetooth/Wi-Fi: La aplicación debe ser compatible con la tecnología de conectividad utilizada por el dron (Bluetooth, Wi-Fi, etc.).
+         o Redes: Para algunas funciones, como la transmisión en vivo o la descarga de mapas, el dispositivo puede necesitar una conexión a Internet estable.
+> - **Interfaz de Usuario:**
+         o Compatibilidad con la Interfaz del Dron: La aplicación debe tener una interfaz que permita controlar el dron de manera intuitiva y eficiente.
