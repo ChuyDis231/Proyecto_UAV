@@ -12,7 +12,7 @@ evolucionando.
 - **Seguridad:** Proporcionalmente de un protocolo de seguridad a los proyectos que se
 lleven a cabo dentro de la empresa.
 
- ![organigrama](organigrama.jpg)
+ <img src="organigrama.jpg" alt="Organigrama" width="300" height="200">
 
   ## SERVICIO
 #### Objetivo General
@@ -36,6 +36,14 @@ Se desarrollarán estrategias y tecnologías que permitan optimizar el tiempo em
 operaciones con un dron agrícola, mejorando así la eficiencia y rendimiento de las actividades
 agrícolas, reducirá el tiempo de vuelo, maximizara la cobertura del área de cultivo en cada vuelo, y
 se minimizaran los tiempos de carga y descargas de equipos y datos.
+
+## Justificación
+Se basa en la optimización de tiempo con uso del UAV debido a sus implicaciones en eficiencia,
+seguridad y rentabilidad de las actividades agrícolas con esto el dron nos ayudara a la recopilación
+de datos para la toma de decisiones informada con la gestión de cultivos. Al optimizar el tiempo
+empleado en la recopilación de datos el agricultor puede tomar decisiones más rápido y precisas lo
+que puede generar un impacto positivo en la productividad y rendimiento de los cultivos.
+
 
 
 ## 1. Titulos HEADERS
