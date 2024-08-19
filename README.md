@@ -28,6 +28,14 @@ humana.
 - Mejorar la eficiencia y rendimiento de las actividades agrícolas con el uso de dron de
 fumigación.
 
+## Planteamiento del problema
+En la agricultura se presentan desafíos como la fertilización, el tiempo de carga y descarga,
+cobertura de área de cultivo y fumigación del campo, un dron nos ayudara a la optimización de
+tareas anteriormente mencionadas.
+Se desarrollarán estrategias y tecnologías que permitan optimizar el tiempo empleado en las
+operaciones con un dron agrícola, mejorando así la eficiencia y rendimiento de las actividades
+agrícolas, reducirá el tiempo de vuelo, maximizara la cobertura del área de cultivo en cada vuelo, y
+se minimizaran los tiempos de carga y descargas de equipos y datos.
 
 
 ## 1. Titulos HEADERS
