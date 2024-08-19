@@ -6,11 +6,9 @@ Generar avances tecnológicos en torno a las nuevas modalidades y estilos de vid
 #### Valores
 - **Responsabilidad:** Entregamos en tiempo y forma todos los proyectos asignados
 dentro de la empresa.
-- **Innovación:** Creamos y mejoramos avances tecnológicos conforme la tecnología vaya
-evolucionando.
+- **Innovación:** Creamos y mejoramos avances tecnológicos conforme la tecnología vaya evolucionando.
 - **Empatía:** Mejoramiento laboral, apoyo entre compañeros de equipo.
-- **Seguridad:** Proporcionalmente de un protocolo de seguridad a los proyectos que se
-lleven a cabo dentro de la empresa.
+- **Seguridad:** Proporcionalmente de un protocolo de seguridad a los proyectos que se lleven a cabo dentro de la empresa.
 
  <p align="center">
   <img src="organigrama.jpg" alt="Organigrama" width="650" height="470">
@@ -18,36 +16,36 @@ lleven a cabo dentro de la empresa.
 
   ## SERVICIO
 #### Objetivo General
-Desarrollar un sistema de control autónomo de un dron agricultor que permita realizar actividades
-agrícolas, reduciendo al mínimo la intervención humana y maximizando la cobertura de cultivos al
-menor tiempo posible.
+Desarrollar un sistema de control autónomo de un dron agricultor que permita realizar actividades agrícolas, reduciendo al mínimo la intervención humana y maximizando la cobertura de cultivos al menor tiempo posible.
 
-####Objetivos Particulares
+#### Objetivos Particulares
 - Implementar una página web para promocionar tanto servicio como producto.
-- Dar conocimiento sobre los diferentes tipos de drones que se ocupan dentro de la
-agricultura.
-- Implementar una aplicación que nos permita la manipulación del dron con intervención
-humana.
-- Mejorar la eficiencia y rendimiento de las actividades agrícolas con el uso de dron de
-fumigación.
+- Dar conocimiento sobre los diferentes tipos de drones que se ocupan dentro de la agricultura.
+- Implementar una aplicación que nos permita la manipulación del dron con intervención humana.
+- Mejorar la eficiencia y rendimiento de las actividades agrícolas con el uso de dron de fumigación.
 
 ## Planteamiento del problema
-En la agricultura se presentan desafíos como la fertilización, el tiempo de carga y descarga,
-cobertura de área de cultivo y fumigación del campo, un dron nos ayudara a la optimización de
-tareas anteriormente mencionadas.
-Se desarrollarán estrategias y tecnologías que permitan optimizar el tiempo empleado en las
-operaciones con un dron agrícola, mejorando así la eficiencia y rendimiento de las actividades
-agrícolas, reducirá el tiempo de vuelo, maximizara la cobertura del área de cultivo en cada vuelo, y
-se minimizaran los tiempos de carga y descargas de equipos y datos.
+En la agricultura se presentan desafíos como la fertilización, el tiempo de carga y descarga, cobertura de área de cultivo y fumigación del campo, un dron nos ayudara a la optimización de tareas anteriormente mencionadas.
+Se desarrollarán estrategias y tecnologías que permitan optimizar el tiempo empleado en las operaciones con un dron agrícola, mejorando así la eficiencia y rendimiento de las actividades agrícolas, reducirá el tiempo de vuelo, maximizara la cobertura del área de cultivo en cada vuelo, y se minimizaran los tiempos de carga y descargas de equipos y datos.
 
 ## Justificación
-Se basa en la optimización de tiempo con uso del UAV debido a sus implicaciones en eficiencia,
-seguridad y rentabilidad de las actividades agrícolas con esto el dron nos ayudara a la recopilación
-de datos para la toma de decisiones informada con la gestión de cultivos. Al optimizar el tiempo
-empleado en la recopilación de datos el agricultor puede tomar decisiones más rápido y precisas lo
-que puede generar un impacto positivo en la productividad y rendimiento de los cultivos.
+Se basa en la optimización de tiempo con uso del UAV debido a sus implicaciones en eficiencia, seguridad y rentabilidad de las actividades agrícolas con esto el dron nos ayudara a la recopilación de datos para la toma de decisiones informada con la gestión de cultivos. Al optimizar el tiempo empleado en la recopilación de datos el agricultor puede tomar decisiones más rápido y precisas lo que puede generar un impacto positivo en la productividad y rendimiento de los cultivos.
 
 ## Alcance
+
+#### Especificaciones Tecnicas del Dron:
+- Capacidad de carga minima de 10 kg de pesticida liquido.
+- Autonomia de vuelo de al menos 1 hora.
+- Velocidad de vuelo ajustable entre 0 y 50 km/h para adaptarse a diferentes condiciones de viento.
+- Sistema de navegación GPS con capacidad de vuelo autónomo.
+  
+#### Area de Aplicación:
+- Aplicaciones en campos de cultivo en la region de Xicotepec de Juarez.
+- Condiciones operativas incluyen temperaturas entre 10°C y 35°C, altitudes hasta 1000 metros sobre el nivel del mar, y vientos de hasta 25 km/h.
+
+#### Seguridad: 
+- implementacion de medidad de seguridad para proteger al operador, personal en tierra y poblacion cercana a las areas de aplicación.
+- Protocolos de emergencia para manejo de accidentes y derrames de pesticidas.
 
 
 ## 1. Titulos HEADERS
