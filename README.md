@@ -49,130 +49,6 @@ dentro de la empresa.
 - implementacion de medidad de seguridad para proteger al operador, personal en tierra y poblacion cercana a las areas de aplicación.
 - Protocolos de emergencia para manejo de accidentes y derrames de pesticidas.
 
-
-## 1. Titulos HEADERS
-
-Si para la documentacion deseamos secciones de alguntema o contenido podemos utilizar estos elmentos para poner textos resaltados como encabezados. Estos son similares a las etiquetas /<h1>...<h6>
-
-**EJEMPLO**
-
-# Titulo Principal (Nivel 1)
-## Subtitulo de Nivel 2
-### Subtitulo de Nivel 3
-#### Subtitulo de Nivel 4
-##### Subtitulo de Nivel 5
-###### Subtitulo de Nivel 6
-####### El estandar solo te permite hasta 6 posibles titulos, a partir del septimo omitira la instruccion de maquetado
-
-## 2. Separadores (SEPARATORS)
-
-Esta instruccion coloca una linea vertical entre las secciones del documento permitiendo organizar y distribuir mejor el contenido, y puede ser maquetado utilizando 3 guiones medios (-) continuos despues del parrafo deseado.
-
-**EJEMPLO**
-
-Parrafo 1  Parrafo 1  Parrafo 1 Parrafo 1 Parrafo 1
----
-Parrafo 2  Parrafo 2  Parrafo 2  Parrafo 2  Parrafo 2
-
-## 3. Parrafos (PARAGRAPHS)
-
-Son utilizados para presentar texto descriptivo de la documentacion de los proyectos, en el cual podremos utilizar la propíedad de  *align* de HTML para poder controlar la alineacion de texto
-
-**EJEMPLO**
-
-Parrafo 1 en caso de no definir la alineacion estara por defecto a la izquierda Parrafo 1 en caso de no definir la alineacion estara por defecto a la izquierda Parrafo 1 en caso de no definir la alineacion estara por defecto a la izquierda Parrafo 1 en caso de no definir la alineacion estara por defecto a la izquierda Parrafo 1 en caso de no definir la alineacion estara por defecto a la izquierda Parrafo 1 en caso de no definir la alineacion estara por defecto a la izquierda
-
-<p align="right"> Parrafo 2 al utilizar la etiqueta p y la propiedad de alineacion con el valor right, este estara alineado a la derecha Parrafo 2 al utilizar la etiqueta p y la propiedad de alineacion con el valor right, este estara alineado a la derecha Parrafo 2 al utilizar la etiqueta p y la propiedad de alineacion con el valor right, este estara alineado a la derecha Parrafo 2 al utilizar la etiqueta p y la propiedad de alineacion con el valor right, este estara alineado a la derecha </p>
-
-<p align="center"> Parrafo 3 este texto estara centrado Parrafo 3 este texto estara centrado Parrafo 3 este texto estara centrado Parrafo 3 este texto estara centrado Parrafo 3 este texto estara centrado Parrafo 3 este texto estara centrado Parrafo 3 este texto estara centrado Parrafo 3 este texto estara centrado Parrafo 3 este texto estara centrado Parrafo 3 este texto estara centrado Parrafo 3 este texto estara centrado Parrafo 3 este texto estara centrado Parrafo 3 este texto estara centrado </p>
-
-<p align="justify"> Algunas veces desearemos  justificar el texto para presentar el texto de una manera mas organizada Algunas veces desearemos  justificar el texto para presentar el texto de una manera mas organizada Algunas veces desearemos  justificar el texto para presentar el texto de una manera mas organizada Algunas veces desearemos  justificar el texto para presentar el texto de una manera mas organizada Algunas veces desearemos  justificar el texto para presentar el texto de una manera mas organizada</p>
-
-## 4. Texto Enfatizado (BOLD, ITALIC, ITALIC/BOLD y UNDERLINE)
-
-Tambien es posible resaltar algunas palabras importantes utilizando la estilizacion de **Letras Negritas**, para la que colocaremos dos * antes y despues de la palabra a resaltar, *Letras Cursivas* solo ponemos un * antes y despues de las palabras, ***Letras Cursivas y Negritas*** colocando 3 y por ultimo <ins>texto subrayado<ins> encerrando la frase o palabra entre la etiqueta <ins> y la etiqueta de cierre <ins>
-
-** 5. Cuadores de Codigo o Reseña (BLOCKQUOTES)
-
-Estos elementos son utilizados para resaltar instrucciones especificas para la instalacion, configuracion y/o inicializacion delproyecto, para mostrar secciones de codigo fuente y se maqueta utilizando el simbolo de mayor que (>) antes del texto.
-
-**EJEMPLO**
-
-Para listar las carpetas y archivos desde una terminal de comandos en el SO de Windows debemos usar el comando
-
-> C:/dir
-Despues oprimimos la tecla *Enter*
-
-Tambien podemos poner texto multilinea
-
-**EJEMPLO**
-
-Pasos para instalar MySQL
-> - Descargar el archivo instalador desde la pagina oficial www.mysql.com
-> - Instalar el servidor de Bases de Datos
-> - Definir el puerto y contraseña para el usuario **root**
-> - Inicializar el servidor de Base de Datos
-> - Conectarnos a la Base de Datos para verificar que se instalo correctamente
-
-## 6. Listas Ordenadas y NO Ordenadas 
-
-Si en nuestra documentacion necesitamos incluir informacion en modo de lista, es decir un elemento tras otro podremos hacerlo utilizando las listas ya sea usando viñetas o numeracion definida.
-
-Para el uso de las viñetas solo es necesario agregar un (-) antes del texto
-
-**EJEMPLO**
-
-Mi tipo favorito de musica es:
-- Balada
-- Rock
-- Electro House
-- Pop
-
-Para enlistar elementos en orden numerico solo basta con anteponer un numero antes del texto con un (.)
-
-**EJEMPLO**
-
-Para crear un nuevo repositorio en **GitHub** debo:
-1. Crear una cuenta deGitHub
-2. Logearme con mi cuenta de GitHub
-3. Ir al menu principal de mi perfil (Home)
-4. En el menu lateral buscar el boton que dice **Nuevo Repositorio**
-5. Asignarle un nombre
-6. Definir si el proyecto es:
-       -**Publico:** Cualquier persona podra ver y consultar el contenido de mi proyecto
-       -**Privado:** Solo aquella persona que yo autorize podran vizualisar y modificar el contenido de mi proyecto
-7. Agregar un primer archivo documental *README.md*
-8. Aprobar la creacion de repositorio
-
-## 7. Ligas e Hipervinculos (LINKS)
-
-Estas son utilizadas para redirigir a archivos o secciones dentro o fuera de nuestro repositorio. Se maquetan utilizando corchetes [], inmediatamente de parentesis con la url de destino ().
-
-**EJEMPLO**
-
-Mi buscador favorito es: [GOOGLE] (https://www.google.com)
-
-Esta documentacion fue creada por **Jose de Jesus Hdz. Casiano**
-<casianojose.24@gmail.com>
-
-## 8. Tablas (TABLES)
-
-Si la documentacion lo requiere podemos podemos presentar informacion en formatos de tablas con filas y columnas, para maquetarlas podemos utilizar el caracter | para delimitar las columnas y - para delimitar las filas
-
- **EJEMPLO**
-
- ------------------------------------------------------------
- | Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4 |
- |--------------| -------------| -------------|--------------|
- | Fila 1 Celda | Fila 2 Celda | Fila 3 Celda | Fila 4 Celda | 
- | Fila 1 Celda | Fila 2 Celda | Fila 3 Celda | Fila 4 Celda | 
- | Fila 1 Celda | Fila 2 Celda | Fila 3 Celda | Fila 4 Celda | 
-
-## 9. **Imagenes
-
-Para la vizualisacion de imagenes debemos cargar los archivos en nuestro repositorio y vincularlo
-[Pika-Pi](pikagit.png)
-
 # Plan de Implementación:
 
 ##        1.Fase de Diseño y Desarrollo:
@@ -206,24 +82,36 @@ Para la vizualisacion de imagenes debemos cargar los archivos en nuestro reposit
   ° Debe permitir la programación de áreas específicas para fumigar, asegurando una cobertura uniforme.
   ° Debe alertar cuando un tanque de gasolina o la pila del motor estén por acabarse.
 
-### Requerimientos NO Funcionales
+#### Requerimientos NO Funcionales
   ° Capacidad para operar en diferentes condiciones climáticas.
   ° Diseño que facilite el mantenimiento y reparación de fallas.
   ° Capacidad para operar durante un tiempo prolongado sin necesidad de recarga de combustible o electricidad.
 
-# Requesitos de Uusuario
+## Requisitos de Usuario
 
-##        1.Conocimiento básico sobre drones:
+###        1.Conocimiento básico sobre drones:
   o Comprender los principios básicos de vuelo y funcionamiento del dron.
   o Conocer las regulaciones locales sobre el uso de drones.
-##        2. Habilidad en el uso de aplicaciones móviles:
+###        2. Habilidad en el uso de aplicaciones móviles:
   ° Familiaridad con la interfaz y funcionalidades de la aplicación movil específica del dron.
-##        3. Habilidades de Navegación y Control:
+###        3. Habilidades de Navegación y Control:
   ° Habilidad para controlar el dron en vuelo utilizando la interfaz táctil de la aplicación.
-##        4.Conocimiento en configuración y Ajustes:
+###        4.Conocimiento en configuración y Ajustes:
   ° Saber configurar parámetros como el límite de altura, distancia, y modos de vuelo en la aplicación.
-##        5.Conocimiento de seguridad y mantenimineto:
+###        5.Conocimiento de seguridad y mantenimineto:
   ° Comprender como realizar mantenimiento básico y solucionar problemas comunes del dron.
+
+## Requisitos Técnicos
+###        1.Dispositivo Móvil Compatible:
+  ° Un smartphone o tableta con sistema operativo compatible (iOS, Android) y especificaciones adecuadas para la aplicación del dron.
+###        2.Aplicación Móvil Adecuada:
+  ° La aplicación móvil proporcionada o recomendada por el fabricante del dron, descargada desde la tienda de aplicaciónes correspondiente.
+###        3.Conexión a Internet:
+  ° Para actualizaciónes de software, descargas de mapas, o funcionalidades en la nube.
+###        4.Conexión Bluetooth o Wi-Fi:
+  ° El dron y el dispositivo móvil deben estar conectados a través de Bluetooth, Wi-Fi, o una conexión directa según el modelo de el dron.
+###        5.Batería Suficiente:
+  ° Batería cargada tanto en el dispositivo móvil como el dron.
 
 #     **Requisitos de Entorno**
 
