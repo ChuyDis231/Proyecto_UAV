@@ -193,7 +193,29 @@ Para la vizualisacion de imagenes debemos cargar los archivos en nuestro reposit
 ## Cronograma y Recursos:
               °Duración del proyecto: 8 meses.
               °Recursos requeridos: Equipode desarollo (Ingenieros, Diseñadores), personal de operación (Pilotos, Técnicos), equipo y materiales de construcción.
-              
+
+## Riesgos y Contigencias:
+              °Riesgos identificados: problemas técnicos con el dron, cambios en la regulación de drones, resistencia de la comunidad local al uso de drones.
+              °Planes de contigencias: disponibilidad de piezas de repuesto, colaboración con autoridades para mantenerse actualizados sobre cambios normativos, campañas de sensibilización y educación sobre los beneficios del uso de drones.
+
+### Requerimientos Funcionales y NO Funcionales
+
+#### Requerimientos Funcionales
+              ° El dron debe ser controlable de forma remota mediante una aplicación móvil o un controlador especifíco.
+              ° Debe incluir cámaras y sensores para el monitorep en tiempo real del estado de la cosecha.
+              ° Debe permitir la programación de áreas específicas para fumigar, asegurando una cobertura uniforme.
+              ° Debe alertar cuando un tanque de gasolina o la pila del motor estén por acabarse.
+
+### Requerimientos NO Funcionales
+              ° Capacidad para operar en diferentes condiciones climáticas.
+              ° Diseño que facilite el mantenimiento y reparación de fallas.
+              ° Capacidad para operar durante un tiempo prolongado sin necesidad de recarga de combustible o electricidad.
+
+# Requesitos de Uusuario
+
+##        1.Conocimiento básico sobre drones
+              o Comprender los principios básicos de vuelo y funcionamiento del dron.
+
 #     **Requisitos de Entorno**
 
 > - **Espacio Adecuado para el Vuelo:** Un área abierta y libre de obstáculos para volar el dron de manera segura.
