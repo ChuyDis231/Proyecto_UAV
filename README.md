@@ -3,7 +3,13 @@
   <img src="DDT.1.png" alt="DDT" width="650" height="650">
  </p>
 
+# LOGOTIPO DE EL PRODUCTO 
+<p align="center">
+  <img src="Logotipo.png" alt="DDT" width="650" height="650">
+ </p>
+ 
 # DEPARTAMENTO DE DESARROLLO TECNOLOGICO
+
 ## Misión
 Incrementar el número de proyectos que tengan un impacto en la sociedad
 ## Visión
@@ -204,18 +210,16 @@ dentro de la empresa.
           o Soporte Técnico: Acceso a soporte técnico para resolver problemas de compatibilidad y funcionamiento.
 ## MAQUETADO DE LA PAGINA 
 <p align="center">
-  <img src="UAV.1.png" alt="DDT" width="650" height="450">
+  <img src="UAV.1.png" alt="DDT" width="650" height="400">
  </p>
  <p align="center">
-  <img src="UAV.2.png" alt="DDT" width="650" height="450">
+  <img src="UAV.2.png" alt="DDT" width="650" height="400">
  </p>
  <p align="center">
-  <img src="UAV.3.png" alt="DDT" width="650" height="450">
+  <img src="UAV.3.png" alt="DDT" width="650" height="400">
  </p>
  <p align="center">
-  <img src="UAV.4.png" alt="DDT" width="650" height="450">
+  <img src="UAV.4.png" alt="DDT" width="650" height="400">
  </p>
- <p align="center">
-  <img src="Logotipo.png" alt="DDT" width="650" height="650">
- </p>
+
  
