@@ -1,8 +1,9 @@
-# DEPARTAMENTO DE DESARROLLO TECNOLOGICO
+# LOGOTIPO DE LA EMPRESA
 <p align="center">
   <img src="DDT.1.png" alt="DDT" width="650" height="650">
  </p>
 
+# DEPARTAMENTO DE DESARROLLO TECNOLOGICO
 ## Misión
 Incrementar el número de proyectos que tengan un impacto en la sociedad
 ## Visión
@@ -201,3 +202,20 @@ dentro de la empresa.
 > - **Soporte Técnico y Actualizaciones:**
           o Actualizaciones de la Aplicación: La aplicación debe recibir actualizaciones periódicas para mantener la compatibilidad con nuevas versiones del sistema operativo y mejoras en el dron.
           o Soporte Técnico: Acceso a soporte técnico para resolver problemas de compatibilidad y funcionamiento.
+## MAQUETADO DE LA PAGINA 
+<p align="center">
+  <img src="UAV1.png" alt="DDT" width="650" height="650">
+ </p>
+ <p align="center">
+  <img src="UAV2.png" alt="DDT" width="650" height="650">
+ </p>
+ <p align="center">
+  <img src="UAV3.png" alt="DDT" width="650" height="650">
+ </p>
+ <p align="center">
+  <img src="UAV4.png" alt="DDT" width="650" height="650">
+ </p>
+ <p align="center">
+  <img src="Logotipo.png" alt="DDT" width="650" height="650">
+ </p>
+ 
