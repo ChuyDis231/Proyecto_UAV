@@ -72,73 +72,73 @@ dentro de la empresa.
 
 ### Cronograma y Recursos
 
-  ° Duración del proyecto: 8 meses.
-  ° Recursos requeridos: Equipode desarollo (Ingenieros, Diseñadores), personal de operación (Pilotos, Técnicos), equipo y materiales de construcción.
+  - Duración del proyecto: 8 meses.
+  - Recursos requeridos: Equipode desarollo (Ingenieros, Diseñadores), personal de operación (Pilotos, Técnicos), equipo y materiales de construcción.
 
 ### Riesgos y Contigencias
 
-  ° Riesgos identificados: problemas técnicos con el dron, cambios en la regulación de drones, resistencia de la comunidad local al uso de drones.
-  ° Planes de contigencias: disponibilidad de piezas de repuesto, colaboración con autoridades para mantenerse actualizados sobre cambios normativos, campañas de sensibilización y educación sobre los beneficios del uso de drones.
+  - Riesgos identificados: problemas técnicos con el dron, cambios en la regulación de drones, resistencia de la comunidad local al uso de drones.
+  - Planes de contigencias: disponibilidad de piezas de repuesto, colaboración con autoridades para mantenerse actualizados sobre cambios normativos, campañas de sensibilización y educación sobre los beneficios del uso de drones.
 
 ### Requerimientos Funcionales y NO Funcionales
 
 #### Requerimientos Funcionales
 
-  ° El dron debe ser controlable de forma remota mediante una aplicación móvil o un controlador especifíco.
-  ° Debe incluir cámaras y sensores para el monitorep en tiempo real del estado de la cosecha.
-  ° Debe permitir la programación de áreas específicas para fumigar, asegurando una cobertura uniforme.
-  ° Debe alertar cuando un tanque de gasolina o la pila del motor estén por acabarse.
+  - El dron debe ser controlable de forma remota mediante una aplicación móvil o un controlador especifíco.
+  - Debe incluir cámaras y sensores para el monitorep en tiempo real del estado de la cosecha.
+  - Debe permitir la programación de áreas específicas para fumigar, asegurando una cobertura uniforme.
+  - Debe alertar cuando un tanque de gasolina o la pila del motor estén por acabarse.
 
 #### Requerimientos NO Funcionales
 
-  ° Capacidad para operar en diferentes condiciones climáticas.
-  ° Diseño que facilite el mantenimiento y reparación de fallas.
-  ° Capacidad para operar durante un tiempo prolongado sin necesidad de recarga de combustible o electricidad.
+  - Capacidad para operar en diferentes condiciones climáticas.
+  - Diseño que facilite el mantenimiento y reparación de fallas.
+  - Capacidad para operar durante un tiempo prolongado sin necesidad de recarga de combustible o electricidad.
 
 ## Requisitos de Usuario
 
 ###        1.Conocimiento básico sobre drones
 
-  ° Comprender los principios básicos de vuelo y funcionamiento del dron.
-  ° Conocer las regulaciones locales sobre el uso de drones.
+  - Comprender los principios básicos de vuelo y funcionamiento del dron.
+  - Conocer las regulaciones locales sobre el uso de drones.
   
 ###        2. Habilidad en el uso de aplicaciones móviles
 
-  ° Familiaridad con la interfaz y funcionalidades de la aplicación movil específica del dron.
+  - Familiaridad con la interfaz y funcionalidades de la aplicación movil específica del dron.
   
 ###        3. Habilidades de Navegación y Control
 
-  ° Habilidad para controlar el dron en vuelo utilizando la interfaz táctil de la aplicación.
+  - Habilidad para controlar el dron en vuelo utilizando la interfaz táctil de la aplicación.
   
 ###        4.Conocimiento en configuración y Ajustes
 
-  ° Saber configurar parámetros como el límite de altura, distancia, y modos de vuelo en la aplicación.
+  - Saber configurar parámetros como el límite de altura, distancia, y modos de vuelo en la aplicación.
   
 ###        5.Conocimiento de seguridad y mantenimineto
 
-  ° Comprender como realizar mantenimiento básico y solucionar problemas comunes del dron.
+  - Comprender como realizar mantenimiento básico y solucionar problemas comunes del dron.
 
 ## Requisitos Técnicos
 
 ###        1.Dispositivo Móvil Compatible
 
-  ° Un smartphone o tableta con sistema operativo compatible (iOS, Android) y especificaciones adecuadas para la aplicación del dron.
+  - Un smartphone o tableta con sistema operativo compatible (iOS, Android) y especificaciones adecuadas para la aplicación del dron.
   
 ###        2.Aplicación Móvil Adecuada
 
-  ° La aplicación móvil proporcionada o recomendada por el fabricante del dron, descargada desde la tienda de aplicaciónes correspondiente.
+  - La aplicación móvil proporcionada o recomendada por el fabricante del dron, descargada desde la tienda de aplicaciónes correspondiente.
   
 ###        3.Conexión a Internet
 
-  ° Para actualizaciónes de software, descargas de mapas, o funcionalidades en la nube.
+  - Para actualizaciónes de software, descargas de mapas, o funcionalidades en la nube.
   
 ###        4.Conexión Bluetooth o Wi-Fi
 
-  ° El dron y el dispositivo móvil deben estar conectados a través de Bluetooth, Wi-Fi, o una conexión directa según el modelo de el dron.
+  - El dron y el dispositivo móvil deben estar conectados a través de Bluetooth, Wi-Fi, o una conexión directa según el modelo de el dron.
   
 ###        5.Batería Suficiente
 
-  ° Batería cargada tanto en el dispositivo móvil como el dron.
+  - Batería cargada tanto en el dispositivo móvil como el dron.
 
 #     **Requisitos de Entorno**
 
