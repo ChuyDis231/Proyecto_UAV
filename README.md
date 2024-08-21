@@ -1,6 +1,6 @@
 # DEPARTAMENTO DE DESARROLLO TECNOLOGICO
 <p align="center">
-  <img src="DDT.1.png" alt="DDT" width="650" height="470">
+  <img src="DDT.1.png" alt="DDT" width="650" height="550">
  </p>
 
 ## Misión
