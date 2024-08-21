@@ -66,19 +66,19 @@ dentro de la empresa.
               
 ###        3.Fase de Operación y Monitoreo
 
-  -Implementación del dron en operaciones piloto en campos de maíz seleccionados.
-  -Monitoreo continuo de la eficacia del tratamiento y ajustes según sea necesario.
-  -Recolección de datos sobre la cobertura, consumo de pesticidas y eficiencia operativa del dron.
+  - Implementación del dron en operaciones piloto en campos de maíz seleccionados.
+  - Monitoreo continuo de la eficacia del tratamiento y ajustes según sea necesario.
+  - Recolección de datos sobre la cobertura, consumo de pesticidas y eficiencia operativa del dron.
 
 ### Cronograma y Recursos
 
-  °Duración del proyecto: 8 meses.
-  °Recursos requeridos: Equipode desarollo (Ingenieros, Diseñadores), personal de operación (Pilotos, Técnicos), equipo y materiales de construcción.
+  ° Duración del proyecto: 8 meses.
+  ° Recursos requeridos: Equipode desarollo (Ingenieros, Diseñadores), personal de operación (Pilotos, Técnicos), equipo y materiales de construcción.
 
 ### Riesgos y Contigencias
 
-  °Riesgos identificados: problemas técnicos con el dron, cambios en la regulación de drones, resistencia de la comunidad local al uso de drones.
-  °Planes de contigencias: disponibilidad de piezas de repuesto, colaboración con autoridades para mantenerse actualizados sobre cambios normativos, campañas de sensibilización y educación sobre los beneficios del uso de drones.
+  ° Riesgos identificados: problemas técnicos con el dron, cambios en la regulación de drones, resistencia de la comunidad local al uso de drones.
+  ° Planes de contigencias: disponibilidad de piezas de repuesto, colaboración con autoridades para mantenerse actualizados sobre cambios normativos, campañas de sensibilización y educación sobre los beneficios del uso de drones.
 
 ### Requerimientos Funcionales y NO Funcionales
 
@@ -99,8 +99,8 @@ dentro de la empresa.
 
 ###        1.Conocimiento básico sobre drones
 
-  o Comprender los principios básicos de vuelo y funcionamiento del dron.
-  o Conocer las regulaciones locales sobre el uso de drones.
+  ° Comprender los principios básicos de vuelo y funcionamiento del dron.
+  ° Conocer las regulaciones locales sobre el uso de drones.
   
 ###        2. Habilidad en el uso de aplicaciones móviles
 
