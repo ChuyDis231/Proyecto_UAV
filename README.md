@@ -204,16 +204,16 @@ dentro de la empresa.
           o Soporte Técnico: Acceso a soporte técnico para resolver problemas de compatibilidad y funcionamiento.
 ## MAQUETADO DE LA PAGINA 
 <p align="center">
-  <img src="UAV1.png" alt="DDT" width="650" height="650">
+  <img src="UAV.1.png" alt="DDT" width="650" height="650">
  </p>
  <p align="center">
-  <img src="UAV2.png" alt="DDT" width="650" height="650">
+  <img src="UAV.2.png" alt="DDT" width="650" height="650">
  </p>
  <p align="center">
-  <img src="UAV3.png" alt="DDT" width="650" height="650">
+  <img src="UAV.3.png" alt="DDT" width="650" height="650">
  </p>
  <p align="center">
-  <img src="UAV4.png" alt="DDT" width="650" height="650">
+  <img src="UAV.4.png" alt="DDT" width="650" height="650">
  </p>
  <p align="center">
   <img src="Logotipo.png" alt="DDT" width="650" height="650">
